@@ -7,9 +7,14 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 211031074 | João Pedro da Silva Rodrigues |
-|  |  |
+| 190128160 | Guilherme Maciel de Meneses |
 
 ## Sobre 
+### Questões Medias
+| Título | Responsável | 
+| -- | -- | 
+| 513. Find Bottom Left Tree Value| Guilherme Maciel | 
+|   | Guilherme Maciel | 
 
 ### Questões Difíceis
 | Título | Responsável | 
