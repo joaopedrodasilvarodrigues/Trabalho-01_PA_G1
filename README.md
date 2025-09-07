@@ -13,14 +13,12 @@
 ### Questões Medias
 | Título | Responsável | 
 | -- | -- | 
-| 513. Find Bottom Left Tree Value| Guilherme Maciel | 
-|   | Guilherme Maciel | 
+| 513. Find Bottom Left Tree Value | Guilherme Maciel | 
+| 129. Sum Root to Leaf Numbers | Guilherme Maciel | 
 
 ### Questões Difíceis
 | Título | Responsável | 
 | -- | -- | 
-|  |  | 
-|   |  | 
 |329. Longest Increasing Path in a Matrix  | João Pedro | 
 | 332. Reconstruct Intinerary | João Pedro | 
 
@@ -34,15 +32,14 @@
 
 ![ (Reconstruindo_Intinerario)](/Imagens/Reconstruct_Intinerary.png)
 
-ADICIONE SUAS QUESTÕES E PRINTS AQUI, GUILHERME! --------------------------------------
 
-### [()]()
+### [(Sum Root to Leaf Numbers)](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=problem-list-v2&envId=depth-first-search)
 
-![()]()
+![(Sum Root to Leaf Numbers)](/Imagens/Sum_Root_to_Leaf.png)
 
-### [()]()
+### [(Find Bottom Left Tree Value)](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=problem-list-v2&envId=breadth-first-search)
 
-![()]() 
+![(Find Bottom Left Tree Value)](/Imagens/Find_Bottom_Left_Tree_Value.png) 
 
 
 ## Link do vídeo
@@ -80,29 +77,29 @@ output:
 
 ### Questão 03
 
-rode o Python: 
+rode o C: 
 
 ```
 input: 
-
+root = [1,2,3]
 output:
-
+25
 
 ```
 
 ### Questão 04
 
-rode o Python: 
+rode o C: 
 ```
 input: 
-
+root = [2,1,3]
 
 output:
-
+1
 
 ```
 
 ## Instalação 
 python instalado
-
-**Linguagem**: Python <br>
+Compilador C instalado 
+**Linguagem**: Python, C <br>
