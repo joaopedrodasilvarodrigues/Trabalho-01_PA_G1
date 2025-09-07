@@ -1,4 +1,4 @@
-# Algorítmos de busca!
+# Grafos 1!
 
 **Número da Lista**: 41<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
