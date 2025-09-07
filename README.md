@@ -77,7 +77,7 @@ output:
 
 ### Questão 03
 
-rode o C: 
+rode o C: Guilherme_Maciel/Sum_Root_to_Leaf_Numbers.c
 
 ```
 input: 
@@ -89,7 +89,7 @@ output:
 
 ### Questão 04
 
-rode o C: 
+rode o C: Guilherme_Maciel/Find_Bottom_Left_Tree_Value.c
 ```
 input: 
 root = [2,1,3]
