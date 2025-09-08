@@ -44,7 +44,7 @@
 
 ## Link do vídeo
 
-Adicionar URL DO YOUTUBE AQUI --------------------------------
+[(Link do Vídeo)](https://youtu.be/ufDo5FrG0Ts)
 
 
 ## Guia de execução
